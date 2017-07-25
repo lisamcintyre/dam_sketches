@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "D2D58116-94EC-4A41-A70A-ECBEBAAC5C7A",
+  "do_objectID": "9853D5B7-C7E6-4BA6-81D8-DC43F0E51D06",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 1347,
+    "height": 25,
+    "width": 69,
+    "x": 1335,
     "y": 20
   },
   "hasClickThrough": false,
@@ -23,11 +23,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "1D1D11CF-AC0D-4605-8695-4DEB419A7630"
+    },
+    {
       "class": "symbolInstance",
-      "id": "C4E16B48-4A99-4883-ABE9-882D88E81399"
+      "id": "5B4B28F2-4540-43ED-8459-44BA0D3C7DEA"
     }
   ],
   "name": "User Nav",
