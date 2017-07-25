@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "29145373-4F36-4BBA-9B29-E8F31EA46342",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 805,
+    "width": 402,
+    "x": 8896,
+    "y": 68
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B349C304-A366-485B-BA32-9027ABC66453"
+    },
+    {
+      "class": "group",
+      "id": "9496A4F2-337D-42AD-9485-60990CFF4198"
+    },
+    {
+      "class": "group",
+      "id": "655161E7-27AB-463A-8F24-9AA5FF92E443"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2ED2D4D-C7EE-4E28-B978-D3FC0B884C87"
+    },
+    {
+      "class": "group",
+      "id": "B888F8A6-444E-4357-8387-3D6622DBE73B"
+    },
+    {
+      "class": "group",
+      "id": "5094F63B-635C-42EA-9EFE-A771023F6F3D"
+    },
+    {
+      "class": "group",
+      "id": "B904E5C1-B88A-41A9-8BFF-9ECC948FA1A6"
+    }
+  ],
+  "name": "iPhone White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.098,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

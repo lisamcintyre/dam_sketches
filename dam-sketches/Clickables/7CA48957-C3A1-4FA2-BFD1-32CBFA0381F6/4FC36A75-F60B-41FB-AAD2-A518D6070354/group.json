@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "4FC36A75-F60B-41FB-AAD2-A518D6070354",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 113,
+    "width": 113,
+    "x": 807,
+    "y": 313
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4AE8A100-0180-4353-8902-7E35D345AE5B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA523C31-DFDB-41E2-8887-0ECAECE6D321"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1285A9EE-B4A6-4941-8BD7-F8BA24DE5AEF"
+    }
+  ],
+  "name": "2 Slices Pie Chart",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -180,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

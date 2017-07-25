@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "93719C11-C2CF-4B4B-A561-00B3D9F34609",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 148,
+    "width": 145,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4C473C8C-F4E0-409D-8480-F3E35E9D3619"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "691C993B-BBCD-49FB-8F8F-DD1A9AD9FD2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F4EA209-93EB-470F-B4DF-9D9BB3906D6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "826A968A-B6A4-44F0-9ADD-54780691FBCE"
+    },
+    {
+      "class": "group",
+      "id": "E456102B-BC09-4592-84ED-669501935C83"
+    }
+  ],
+  "name": "Checkbox Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "spacing": 8,
+        "type": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

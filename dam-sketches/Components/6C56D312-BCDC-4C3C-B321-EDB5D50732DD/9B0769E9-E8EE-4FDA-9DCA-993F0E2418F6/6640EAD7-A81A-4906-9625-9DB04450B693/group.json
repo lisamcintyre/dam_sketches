@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "6640EAD7-A81A-4906-9625-9DB04450B693",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 1280,
+    "x": 0,
+    "y": 536
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F479B407-96E5-4A0D-9D4D-904FF457D056"
+    },
+    {
+      "class": "group",
+      "id": "2782CD9A-BCF1-4D32-8ED1-3480F631E1DF"
+    },
+    {
+      "class": "group",
+      "id": "B9B251FC-55B1-418B-8A34-89FCDFF84A14"
+    },
+    {
+      "class": "text",
+      "id": "D181D91F-111B-4037-A75F-1F26B6817BBB"
+    }
+  ],
+  "name": "Field with Labels",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

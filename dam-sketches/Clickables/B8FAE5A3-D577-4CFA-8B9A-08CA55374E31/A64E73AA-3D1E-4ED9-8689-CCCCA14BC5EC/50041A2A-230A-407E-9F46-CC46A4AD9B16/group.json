@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "50041A2A-230A-407E-9F46-CC46A4AD9B16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 9.09033877038896,
+    "width": 9.090452261306524,
+    "x": 145.9950378682501,
+    "y": 36.71685651094418
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4FAA177F-DE29-420A-B671-22D92FCE5950"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "406535DA-309F-4621-93D0-237CE792550B"
+    }
+  ],
+  "name": "Front Camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.098,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

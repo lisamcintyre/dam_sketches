@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D7BF33FF-B299-444C-95B2-730F93A08F28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 120,
+    "x": 8,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Type",
+  "nameIsFixed": true,
+  "originalObjectID": "D7BF33FF-B299-444C-95B2-730F93A08F28",
+  "overrides": {
+    "4285288C-A406-439D-90AB-A1EA5C143337": "Text..."
+  },
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3919FAC1-FA83-49B2-BAF9-A66553A562DC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerVertically": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_d972ea03-c148-4eb4-96b1-5dc16c56ca29",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "left": {
+            "constant": 8,
+            "enabled": 1,
+            "modelID": "constraint_cd9d07cd-0cfd-4450-92de-1c5f286fae43",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_e39258b6-4d2d-4065-9f70-df4d0ebfdfde",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 8,
+            "enabled": 1,
+            "modelID": "constraint_a243b023-6f6f-4f76-94b8-cd845f1522e0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

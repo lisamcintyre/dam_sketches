@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "2E0E3737-314C-425B-A5E2-3A1ECA537DD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 272,
+    "x": 0,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "59F893AC-6329-426C-80FA-62BF5822D29D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "596A9FFE-3B62-4115-85AD-3A6001D5C1BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27308EF7-CFB3-402C-BA9A-A2105FD202C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA72AA1A-85B4-4FF7-9607-9CBFBCC19F37"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E59E8F4-46DE-4977-ADEA-4CBDB7B005FE"
+    }
+  ],
+  "name": "Dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "AED2E432-D938-4B58-8367-F9C073B5A830",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 1440,
+    "x": 1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "91D386DF-2DB4-4898-803E-E34478C906C8"
+    },
+    {
+      "class": "group",
+      "id": "DCF7EF64-F09C-468B-A782-B1E5943421E7"
+    },
+    {
+      "class": "group",
+      "id": "B54FC666-1DC5-4760-8F41-25BBB007BC2E"
+    },
+    {
+      "class": "group",
+      "id": "86FDA9AC-B4C3-4290-9685-8BD13E15C345"
+    },
+    {
+      "class": "group",
+      "id": "FE2723AB-FF96-47A5-8E47-D6FBE0FEC27E"
+    },
+    {
+      "class": "group",
+      "id": "0E325D6F-C24B-4F57-8700-04DE4B85FD40"
+    }
+  ],
+  "name": "Top Nav Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

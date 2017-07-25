@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "FE2BEC83-1CE8-4C64-AE5B-B31C813694E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 685.8155583437892,
+    "width": 398.9698492462313,
+    "x": 1.748443567284431,
+    "y": 52.45265215849167
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9AE4F849-5AAC-4CF0-B2BB-C3EEF85FB25D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA4CAE86-9194-4CBE-B082-84BF664CC87A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57F04DEE-E961-4A38-B9B0-3EED1C53B031"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E99CF212-36D8-4185-8FDC-85FED2BDA659"
+    }
+  ],
+  "name": "Effect",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.098,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

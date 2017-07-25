@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C6E59116-10B5-489E-BCC8-50D58D4FACE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Text",
+  "nameIsFixed": false,
+  "originalObjectID": "C6E59116-10B5-489E-BCC8-50D58D4FACE0",
+  "overrides": {
+    "25CE889C-672D-47CE-AB6F-3B1BCE1853BB": "A tiny little badge!"
+  },
+  "resizingConstraint": 45,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5FDDADDC-0C54-443F-B0F5-1F98FEAC8465",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_425124f5-a8fe-4394-ae58-66a51a49d6dc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_f450fb5e-58d6-4b0a-abae-8c46f1954394",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_411e18b3-c575-42b2-a80e-557c29a23cda",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

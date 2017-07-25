@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "5D5A187F-EC99-4FDF-AD5A-B86A770C1489",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4.040150564617321,
+    "width": 175.748743718593,
+    "x": 0,
+    "y": 97.91161736251777
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E62A38C-3803-4B3E-923E-9B37E1782533"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E4CF25F-FA29-47E2-A8AB-394AE0ABF79F"
+    }
+  ],
+  "name": "Loading Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.098,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAgISIjJCUmJyszNDU2Nz5CTVBTV19jZ2psVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADVkJVVFRPTtMREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgAqAC4ATgBeAG1pOU0xpZ2F0dXJlVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IQACMAAAAAAAAAANIKKCkqXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCiwvMqItLoANgA6iMDGAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF1PcGVuU2Fucy1Cb2xk0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqJBPV8QEE5TRm9udERlc2NyaXB0b3LWQ0RFRgpHSElKS0xKW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHQQBIAAI0A4AAAAAAAAgBSAFtISCk5PoIAV0jg5UVJXTlNBcnJheaJRPdI4OVRVXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjVFY9XxAQTlNQYXJhZ3JhcGhTdHlsZdRYWVoKW1xdXlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjQ1MDk4MDM5MjIgMC44MjM1Mjk0MTE4IDAuODExNzY0NzA1OQAQAYAYgBrSYAphYlROU0lEEAGAGdI4OWRlXE5TQ29sb3JTcGFjZaJmPVxOU0NvbG9yU3BhY2XSODloaVdOU0NvbG9yomg90jg5PGuiPD3SODltbl8QEk5TQXR0cmlidXRlZFN0cmluZ6JvPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFyc1Ryb290gAEACAARABoAIwAtADIANwBXAF0AZABtAHQAgQCDAIUAhwCOAJUAnQCoAK4AsACyALQAtgC4AL4AwADCAMQAxgDIAMoA1QDcAP4BEQEZARsBJAEpAUYBSAFKAVEBVAFWAVgBWwFdAV8BYQF3AY0BlgGkAakBtAG9AdMB1wHkAe0B8gIFAggCGwIoAjQCPwJRAl0CbwJxAnMCfAJ+AoAChQKGAogCjQKVApgCnQK3ArsCzgLXAt0C6gL/AykDKwMtAy8DNAM5AzsDPQNCA08DUgNfA2QDbANvA3QDdwN8A5EDlAOpA7sDvgPDAAAAAAAAAgEAAAAAAAAAdAAAAAAAAAAAAAAAAAAAA8U="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3069FBD6-56F9-4FCA-93D8-EA1385BBFE87",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 68,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 6}, {65, 13}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "lineSpacingBehaviour": 2,
+  "name": "↳🖊Content",
+  "nameIsFixed": true,
+  "originalObjectID": "3069FBD6-56F9-4FCA-93D8-EA1385BBFE87",
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "12385DF1-7D05-4851-AB83-E60871C5B8FB",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF1PcGVuU2Fucy1Cb2xk0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+        },
+        "NSColor": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTxAnMC40NTA5ODAzOTIyIDAuODIzNTI5NDExOCAwLjgxMTc2NDcwNTkAEAGAAoAE0hIMExRUTlNJRBABgAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIaG1xOU0NvbG9yU3BhY2VYTlNPYmplY3TSFhcdHldOU0NvbG9yoh0bXxAPTlNLZXllZEFyY2hpdmVy0SEiVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBMAFIAXwB0AHsApQCnAKkAqwCwALUAtwC5AL4AyQDSAN8A4gDvAPgA/QEFAQgBGgEdASIAAAAAAAACAQAAAAAAAAAjAAAAAAAAAAAAAAAAAAABJA=="
+        },
+        "NSKern": 0,
+        "NSLigature": 0,
+        "NSParagraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBESExFbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodFtOU1RleHRMaXN0c1YkY2xhc3NfEA9OU01heExpbmVIZWlnaHQQBIAAI0A4AAAAAAAAgAKABNIVDRYXWk5TLm9iamVjdHOggAPSGRobHFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGx1YTlNPYmplY3TSGRofIF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlox8hHV8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRJCVUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFAAXABnAHkAhQCMAJ4AoACiAKsArQCvALQAvwDAAMIAxwDSANsA4wDmAO8A9AEOARIBJQE3AToBPwAAAAAAAAIBAAAAAAAAACYAAAAAAAAAAAAAAAAAAAFB"
+        }
+      }
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "bottom": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_7c9bc3f5-32df-4e7c-a87f-d6fabdf0ad24",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "centerVertically": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_94e6bb6f-f8ff-4e96-a660-8879733b3522",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_40a9827d-6fc8-4166-bef1-4ba66484d4f1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_09e85479-87a3-405c-a630-076e31d2aeeb",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_ef8f511a-793f-463a-af17-1cbd96df9035",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "top": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_1368bee0-167e-460e-a696-ed10f7527e0f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        },
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

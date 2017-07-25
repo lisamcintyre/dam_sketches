@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "D1BEA8E6-51D1-42FF-9E31-9F0941D7043D",
+  "name": "Accent 11",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2735759228081621,
+          "green": 0.09627173586349785,
+          "red": 0.7242240646258503
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "D1BEA8E6-51D1-42FF-9E31-9F0941D7043D",
+    "startDecorationType": 0
+  }
+}

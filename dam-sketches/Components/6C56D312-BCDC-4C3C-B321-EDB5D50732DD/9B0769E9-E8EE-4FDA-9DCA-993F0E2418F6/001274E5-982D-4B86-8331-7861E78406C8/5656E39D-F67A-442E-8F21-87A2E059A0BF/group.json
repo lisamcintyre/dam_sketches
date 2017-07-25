@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "5656E39D-F67A-442E-8F21-87A2E059A0BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 156,
+    "x": 1037,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5D6B6D27-95DC-4761-B84E-EF6DE3A09B49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D8F1CB4-2418-48CC-81BD-A5BD0EEF2B3A"
+    },
+    {
+      "class": "text",
+      "id": "3AC99D28-3B26-48CC-9BEC-DEB1C0FAD695"
+    }
+  ],
+  "name": "Simple Drop Downs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

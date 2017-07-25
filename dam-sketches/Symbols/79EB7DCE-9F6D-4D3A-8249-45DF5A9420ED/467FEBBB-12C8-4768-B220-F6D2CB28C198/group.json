@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "do_objectID": "467FEBBB-12C8-4768-B220-F6D2CB28C198",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 34,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7E6BD546-034C-4A5F-B112-600E2E139C9E"
+    }
+  ],
+  "name": "Content",
+  "nameIsFixed": true,
+  "originalObjectID": "467FEBBB-12C8-4768-B220-F6D2CB28C198",
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "bottom": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_89cac45f-3c36-4b8b-9e17-b0803a9f36ef",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_eff89003-f154-4b6b-bf21-c1535189d8d9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_368982e0-4056-4a00-b1a5-0b55b03d3ce8",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 20,
+            "enabled": 1,
+            "modelID": "constraint_1392267f-6416-4990-8d31-12c5d9f7a46a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "top": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_55c013b4-ddfb-48c1-a9d0-a66ccb378f87",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  }
+}

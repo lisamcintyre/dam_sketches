@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "4A99C66F-8208-4AEA-AFDA-14E341DAE539",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 143,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F3D86411-D41C-4928-BDDF-ED3298C92694"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44C08D38-5E8D-4069-8FDC-37CC4B76232A"
+    },
+    {
+      "class": "text",
+      "id": "27F6FB3C-3CEB-4932-9CF8-E13A6451D47E"
+    }
+  ],
+  "name": "Radio Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "spacing": 8,
+        "type": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 26,
+  "do_objectID": "601B0684-2EAD-4953-BB5D-8E1D1C75B1C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 8,
+    "width": 40,
+    "x": 1842,
+    "y": 2314
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "23CDEDD4-09DB-4FE7-A718-C66E8F261E57"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB53BA87-818A-40B9-B89C-E72539A735BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3560B8B7-7523-49B3-80A5-1BB9159A701E"
+    }
+  ],
+  "name": "Calendar/Events - 2",
+  "nameIsFixed": true,
+  "originalObjectID": "601B0684-2EAD-4953-BB5D-8E1D1C75B1C8",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5B28A752-AA89-4A7C-8A2E-FAF0655DFB55",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

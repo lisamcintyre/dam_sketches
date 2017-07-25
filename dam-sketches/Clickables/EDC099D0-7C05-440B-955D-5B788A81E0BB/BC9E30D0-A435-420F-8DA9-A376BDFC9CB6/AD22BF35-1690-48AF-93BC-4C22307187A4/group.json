@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "AD22BF35-1690-48AF-93BC-4C22307187A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 685.8155583437892,
+    "width": 398.9698492462313,
+    "x": 1.748443567284431,
+    "y": 52.45265215849167
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "485E6314-0F1E-4ECA-B77F-E3472F409709"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26F251EA-4A33-4B4E-BD72-2DD50C236313"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F68D31F2-355E-4093-9DB4-581A2E1FF95D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50EF8369-EB18-413A-A1BC-F4737C2EBD1E"
+    }
+  ],
+  "name": "Effect",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.098,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "8F257004-0889-4B28-A7CD-69C1C3322BAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 1442,
+    "x": 0,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "19FAAFAC-E5BB-4FBE-8590-6B6DF759B349"
+    },
+    {
+      "class": "group",
+      "id": "9388B902-7A89-4152-AA41-4F0748635680"
+    },
+    {
+      "class": "text",
+      "id": "49A1C81E-3F71-4144-BD87-7D444202A0D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "356B4184-E921-4BAC-B5A8-F465900E3E46"
+    }
+  ],
+  "name": "Secondary Nav Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
